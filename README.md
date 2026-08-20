@@ -1,4 +1,4 @@
-# Hi, I'm Taro 
+# Hi, I'm Taro Nguyen
 
 I'm interested in data and marketing analytics, and I've been building projects to get more hands-on experience working with data.
 
