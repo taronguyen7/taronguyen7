@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Taro 
 
-<!--
-**taronguyen7/taronguyen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in data and marketing analytics, and I've been building projects to get more hands-on experience working with data.
 
-Here are some ideas to get you started:
+I enjoy taking complex datasets, finding the important patterns, and turning them into dashboards that make the data easier to understand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+###  Marketing Analytics
+
+#### [Google Merchandise Store Analysis]([YOUR-GOOGLE-MERCH-REPO-LINK](https://github.com/taronguyen7/Google-Merchandise-Looker-Analysis))
+
+Analyzed Google Merchandise Store data to understand traffic sources, revenue performance, device behavior, product performance, and customer engagement.
+
+**Tools:** Looker Studio, Google Analytics
+
+#### [Social Media Engagement Analysis]([YOUR-SOCIAL-MEDIA-REPO-LINK](https://github.com/taronguyen7/Social-Media-Engegement-Analysis))
+
+Analyzed 5,000 social media posts to explore engagement and view performance across platforms, content types, days of the week, and posting times.
+
+**Tools:** Power BI, Excel
