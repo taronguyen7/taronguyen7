@@ -19,3 +19,19 @@ Analyzed Google Merchandise Store data to understand traffic sources, revenue pe
 Analyzed 5,000 social media posts to explore engagement and view performance across platforms, content types, days of the week, and posting times.
 
 **Tools:** Power BI, Excel
+
+### Customer Analytics
+
+#### [Customer Segmentation Dashboard](https://github.com/taronguyen7/Customer-Segmentation-Dashboard)
+
+Analyzed retail transaction data using RFM analysis to understand customer loyalty, activity, and value, then segmented customers based on their purchasing behavior.
+
+**Tools:** Python, Jupyter Notebook, Pandas, Looker Studio
+
+### Sales Analytics
+
+#### [Retail Sales Performance Dashboard](https://github.com/taronguyen7/Retail-Sales-Performance-Dashboard)
+
+Built an interactive Excel dashboard using the Superstore dataset to analyze sales, profit, product performance, customer segments, regions, and discount trends.
+
+**Tools:** Microsoft Excel, PivotTables, PivotCharts, Slicers
