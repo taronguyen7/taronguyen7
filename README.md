@@ -1,8 +1,8 @@
 # Hi, I'm Taro Nguyen
 
-I'm interested in data and marketing analytics, and I've been building projects to get more hands-on experience working with data.
+I'm interested in data and marketing analytics, and I've been building projects to gain more hands-on experience using tools like Excel, Power BI, Looker Studio, and Python.
 
-I enjoy taking complex datasets, finding the important patterns, and turning them into dashboards that make the data easier to understand.
+I'm continuing to build my analytical skills and explore how data can be used to better understand marketing and consumer behavior.
 
 ## Featured Projects
 
