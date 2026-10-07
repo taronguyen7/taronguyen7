@@ -6,6 +6,14 @@ I'm continuing to build my analytical skills and explore how data can be used to
 
 ## Featured Projects
 
+### Data Analytics
+
+#### [MLB Pitcher Performance Analysis](https://github.com/taronguyen7/MLB-Pitcher-Performance-Analysis)
+
+Analyzed six MLB starting pitchers to examine how their effectiveness changed across early, middle, and late game stages.
+
+**Tools:** SQL, Power BI
+
 ###  Marketing Analytics
 
 #### [Google Merchandise Store Analysis](https://github.com/taronguyen7/Google-Merchandise-Looker-Analysis)
