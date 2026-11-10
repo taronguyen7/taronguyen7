@@ -16,6 +16,12 @@ Analyzed six MLB starting pitchers to examine how their effectiveness changed ac
 
 ###  Marketing Analytics
 
+#### [Olist Marketing Analytics: Seller Acquisition & Sales Performance](https://github.com/taronguyen7/Olist-Marketing-Analytics-Seller-Acquisition-Sales-Performance)
+
+Analyzed marketing channel performance, seller acquisition, and delivered sales value to identify opportunities for improving conversion rates and marketing strategy.
+
+**Tools:** MySQL, Power BI
+
 #### [Google Merchandise Store Analysis](https://github.com/taronguyen7/Google-Merchandise-Looker-Analysis)
 
 Analyzed Google Merchandise Store data to understand traffic sources, revenue performance, device behavior, product performance, and customer engagement.
